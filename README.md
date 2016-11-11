@@ -1,0 +1,1 @@
+SPYCE - Um espaço pythonico
